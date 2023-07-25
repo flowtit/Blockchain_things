@@ -1,0 +1,22 @@
+Terms of Reference (TOR) for Decentralized Systems for Data Sharing and Storage:
+
+Overview and Purpose: The decentralized data sharing and storage system is designed to provide secure and decentralized data storage and sharing capabilities. The system
+will allow users to store, share, and access data in a secure and decentralized manner.
+
+System Content: The system will consist of a network of nodes that will store and manage the data. Each node will be responsible for maintaining a copy of the data and
+ensuring its security. The system will also include a user interface that will allow users to interact with the network and manage their data.
+
+Interaction: The product will interact with other products and components through APIs that will allow data to be easily shared and accessed. The system will also be able
+to integrate with existing data storage and sharing systems to provide a seamless data management experience.
+
+Product Features: The key features of the system will include secure data storage, decentralized data sharing, and access control. Users will be able to control who has
+access to their data and how it is shared. The system will also include a search functionality that will allow users to easily find the data they are looking for.
+
+Security Requirements: The system will be designed with security in mind. It will use encryption and other security measures to ensure the confidentiality and integrity
+of the data stored on the network. The system will also be designed to be resistant to attacks, such as data breaches and hacking attempts.
+
+Characteristics of Users: The end-users of the system will be individuals, organizations, and businesses that require secure and decentralized data storage and sharing
+capabilities. The system will be designed to be easy to use, with a user-friendly interface that will make it accessible to a wide range of users.
+
+Restrictions: The system will not be able to store data that is illegal or violates the terms of use of the network. The system may also have limitations on the size and
+type of data that can be stored and shared.
